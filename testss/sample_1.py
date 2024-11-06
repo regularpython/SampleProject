@@ -6,14 +6,14 @@
 #
 # print(c)
 
-# def addition(c, d):
-#     a = c
-#     b = d
-#     c = a + b
-#     print(c)
-#
-#
-# addition(2,3)
+def addition(c, d):
+    a = c
+    b = d
+    c = a + b
+    print(c)
+
+
+addition(2,3)
 
 
 class MathOperation:
